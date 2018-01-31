@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="32dp"
+    android:background="#404858">
+
+    <TextView
+        android:id="@+id/scf_top_alert_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:lineSpacingExtra="2sp"
+        android:text="最低1000元起借"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+</FrameLayout>
